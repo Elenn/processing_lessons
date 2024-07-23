@@ -1,6 +1,9 @@
-# processing_lessons
+# processing_lessons_01
 ![alt text](https://github.com/Elenn/processing_lessons/blob/main/How/01_Lesson_Circle.png?raw=true)
-
+--------------------------------------------- 
+0. Задание: 
+Нарисуй снеговика
+----------------------------------------
 1.
 - Даунлодим Processing
 https://processing.org/download
@@ -21,8 +24,8 @@ Java -> Manage Models -> Python
 size(640, 360)
 circle(320, 180, 100)
 ```
-Где 320 - позиция центра x
-    180 - позиция центра y
+Где 320 - позиция центра x,
+    180 - позиция центра y,
 	100 - диаметр
 	
 circle(0, 0, 100) - координаты идут с верхнего левого угла	
@@ -43,7 +46,7 @@ def setup():
   background(0)
 
 def draw():
-  noStroke();
+  noStroke()
   fill(255, 100, 200)
   circle(320, 180, 100)
 ```
@@ -60,8 +63,7 @@ https://processing.org/reference
 	square() 
 	triangle()
 -----------------------------------------
-6. Задание: 
-Нарисуй снеговика
+
  
 
  

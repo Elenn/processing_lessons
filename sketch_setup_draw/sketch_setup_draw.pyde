@@ -4,6 +4,6 @@ def setup():
 
 
 def draw():
-  noStroke();
+  noStroke()
   fill(255, 100, 200)
   circle(320, 180, 100)
