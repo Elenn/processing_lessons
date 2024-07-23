@@ -1,4 +1,5 @@
 # processing_lessons
+![alt text](https://github.com/Elenn/processing_lessons/blob/main/How/01_Lesson_Circle.png?raw=true)
 
 1.
 - Даунлодим Processing
@@ -50,7 +51,8 @@ def draw():
 5. Задание: 
 Нарисуй снеговика
 ------------------------------------------
-  
+
+ 
  
 
 
