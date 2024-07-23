@@ -17,10 +17,10 @@ Java -> Manage Models -> Python
 
 --------------------------------------
 2. Раню первый скрипт
-
+```
 size(640, 360)
 circle(320, 180, 100)
-
+```
 Где 320 - позиция центра x
     180 - позиция центра y
 	100 - диаметр
@@ -37,11 +37,11 @@ sketch_HelloCircle.pyde
 4. setup() & draw()
 
 C:\web\AlicaPython\Git\01_Lesson_Circle\sketch_setup_draw
-
+```
 def setup():
   size(640, 360)
   background(0)
-
+```
 
 def draw():
   noStroke();
