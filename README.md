@@ -41,12 +41,12 @@ C:\web\AlicaPython\Git\01_Lesson_Circle\sketch_setup_draw
 def setup():
   size(640, 360)
   background(0)
-```
 
 def draw():
   noStroke();
   fill(255, 100, 200)
   circle(320, 180, 100)
+```
 ------------------------------------------
 5. Задание: 
 Нарисуй снеговика
